@@ -1,5 +1,3 @@
-import java.text.NumberFormat;
-
 public class MortgageCalculator {
     // constants
     private final static byte MONTHS_IN_YEAR = 12;
